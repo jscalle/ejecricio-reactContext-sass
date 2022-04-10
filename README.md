@@ -1,6 +1,17 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Summary
+This is a small project with the intention to practice and demonstrate a little bit the use of React Context.
+It also uses some of the facilities of Sass inside the styles
+
+## Operation
+With a simple interface we have two main blocks
+the first consists of a text field where we can enter the number of murders that we want our character John Wick, this internally has a logic of addition, so if we put a number and then another (or without changing the number) without having reset the value this will make us a sum of the current number with the new number entered, precisely this process of addition we can execute it by means of the first button that we have in the continuous part to the text field, the other buttons that we have to disposition is the subtraction, its operation is to subtract the current number of murders in a unit; the next button resets the value to zero "0".
+
+in the next block we have a small image, the name of the character and a small description of the character and how the project works.
+the final button at the bottom is a simple link that redirects to this github profile. 
+
+Translated with www.DeepL.com/Translator (free version)
 
 ## Available Scripts
 
@@ -14,11 +25,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
@@ -29,42 +35,17 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Versión en Español
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Resumen
+Este es un proyecto pequeño con la intensión de practicar y demostrar un poco el uso de React Context
+También se utiliza un poco de las facilidades de Sass dentro de los estilos
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Funcionamiento
+Con una interfaz sencilla tenemos dos bloques principales
+el primero consta de un campo de texto donde podremos ingresar el número de asesinatos que queremos que lleve nuestro personaje John Wick, esto internamente tiene una lógica de suma, así que si ponemos un número y luego otro (o sin cambiar el número) sin haber reseteado el valor esto nos realizara una suma del número actual con el nuevo número ingresado, precisamente este proceso de suma lo podemos ejecutar mediante el primer botón que tenemos en la parte continua a el campo de texto, los demás botones que tenemos a disposición es el de resta, su funcionamiento es restar el número actual de asesinatos en una unidad; el siguiente botón lo que hace es resetear el valor a cero "0"
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+en el siguiente bloque tenemos una pequeña imagen, el nombre del personaje y una pequeña descripción del personaje y del funcionamiento del proyecto.
+el botón final que se encuentra en la parte inferior es un link sencillo que redirecciona a este perfil de github 
