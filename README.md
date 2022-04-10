@@ -11,8 +11,6 @@ the first consists of a text field where we can enter the number of murders that
 in the next block we have a small image, the name of the character and a small description of the character and how the project works.
 the final button at the bottom is a simple link that redirects to this github profile. 
 
-Translated with www.DeepL.com/Translator (free version)
-
 ## Available Scripts
 
 In the project directory, you can run:
